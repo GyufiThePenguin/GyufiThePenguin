@@ -15,7 +15,7 @@
 - 🔭 Currently, I'm learning React, pushing the boundaries of what's possible.
 - 🌱 Right now, I'm leveling up my skills in Git, Java, and Node.js.
 - 💬 Ask me anything about C#, Python, HTML/CSS, or JavaScript.
-<br>
+
 - 👾 I'm also a huge fan of Portal 2, solving puzzles and embracing the unexpected.
 - 🌌 You can catch me binging on "The Expanse" in my free time.
 
