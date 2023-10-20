@@ -8,6 +8,7 @@
   <img src="your-profile-image-link" alt="Zsombor's Profile Image">
 </div>
 -->
+
 ### 🛠️ About Me
 
 - 🔬 I'm a Computer Science student at OE University, exploring the world of code.
@@ -20,7 +21,7 @@
 
 ### 🚀 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/GyufiThePenguin)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyufiThePenguin&show_icons=true&theme=dark)](https://github.com/GyufiThePenguin/)
 
 ### 🌍 Let's Connect
 
