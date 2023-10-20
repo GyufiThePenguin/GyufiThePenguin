@@ -1,30 +1,30 @@
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=GyufiThePenguin&show_icons=true&icon_color=805AD5&text_color=BB86FC&bg_color=0d1117&hide_title=true"  />-->
-### Hi, I'm Zsombor 👋
+<h1 align="center">👋 Hello, I'm Zsombor</h1>
 
-<!-- 💾 Download my [CV](https://github.com/GyufiThePenguin/GyufiThePenguin/blob/main/Toth%20Zsombor%20CV%20v2.3.pdf) -->
-
-
-<h2> About Me </h2>
-
-- 🔬 I study computer science at OE University
-
-- 🔭 I’m currently working on React projects
-  
-- 🌱 I’m currently learning Git, Java and React
-  
-- 💬 Ask me about C#, Python, HTML/CSS, JavaScript
-
+<p align="center">
+  <em>Computer Science Student at OE University</em>
+</p>
 <!--
-**GyufiThePenguin/GyufiThePenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img src="your-profile-image-link" alt="Zsombor's Profile Image">
+</div>
 -->
+### 🛠️ About Me
+
+- 🔬 I'm a Computer Science student at OE University, exploring the world of code.
+- 🔭 Currently, I'm learning React, pushing the boundaries of what's possible.
+- 🌱 Right now, I'm leveling up my skills in Git, Java, and Node.js.
+- 💬 Ask me anything about C#, Python, HTML/CSS, or JavaScript. I'm here to help and share knowledge!
+
+- 👾 I'm also a huge fan of Portal 2, solving puzzles and embracing the unexpected.
+- 🌌 You can catch me binging on "The Expanse" in my free time.
+
+### 🚀 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/GyufiThePenguin)
+
+### 🌍 Let's Connect
+
+- 📫 **Email:** [tothzsombor2001@gmail.com](mailto:tothzsombor2001@gmail.com)
+- 💼 **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/zsombor-toth-062721235/)
+<!--- 🌐 **Portfolio:** [Your Personal Website](https://www.yourwebsite.com)-->
+
