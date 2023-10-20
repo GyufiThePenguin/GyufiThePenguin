@@ -26,6 +26,6 @@
 ### 🌍 Let's Connect
 
 - 📫 **Email:** [tothzsombor2001@gmail.com](mailto:tothzsombor2001@gmail.com)
-- 💼 **LinkedIn:** [Zsombor Tóth](https://www.linkedin.com/in/zsombor-toth-062721235/)
+- 💼 **LinkedIn:** [Zsombor Tóth](https://www.linkedin.com/in/zsombor-toth-062721235)
 <!--- 🌐 **Portfolio:** [Your Personal Website](https://www.yourwebsite.com)-->
 
