@@ -15,7 +15,7 @@
 - 🔭 Currently, I'm learning React, pushing the boundaries of what's possible.
 - 🌱 Right now, I'm leveling up my skills in Git, Java, and Node.js.
 - 💬 Ask me anything about C#, Python, HTML/CSS, or JavaScript.
-
+<br>
 - 👾 I'm also a huge fan of Portal 2, solving puzzles and embracing the unexpected.
 - 🌌 You can catch me binging on "The Expanse" in my free time.
 
@@ -26,6 +26,6 @@
 ### 🌍 Let's Connect
 
 - 📫 **Email:** [tothzsombor2001@gmail.com](mailto:tothzsombor2001@gmail.com)
-- 💼 **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/zsombor-toth-062721235/)
+- 💼 **LinkedIn:** [Zsombor Tóth](https://www.linkedin.com/in/zsombor-toth-062721235/)
 <!--- 🌐 **Portfolio:** [Your Personal Website](https://www.yourwebsite.com)-->
 
